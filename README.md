@@ -4,6 +4,8 @@ A single-page app where you browse 10 startup design themes and copy a ready-to-
 
 The idea: stop guessing what your landing page should look like. Pick a theme that fits your product, copy the prompt, and hand it to an AI or designer.
 
+Visit the website here : https://promptux.up.railway.app/
+
 ## Themes
 
 SaaS Minimal · AI & Deep Tech · FinTech & Trust · E-Commerce · EdTech · Health & Wellness · Developer Tools · Sustainability · Social & Community · Gaming
